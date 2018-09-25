@@ -8,9 +8,10 @@ Die Buttons Start/Pause, Beenden, Sichern und Laden ermöglichen dem Spieler das
 seine Beschriftung), das Beenden des Spiels, das Sichern des Speicherstandes und das Laden des Speicherstandes. Empfohlen wird
 das Spiel erst zu speichern, während man es pausiert hat. Weitere Kommentare zu Funktionen lassen sich in den Dateien finden!
 
-Die Dateien main.cpp, meinwidget.cpp und zeichenfeld.cpp setzen die Arbeit zusammen. Die main-Datei beinhaltet das Anzeigen des Programms.
-Die meinwidget-Datei beinhaltet die Oberfläche des Programms und wo genau die Buttons und die Zeichenfläche platziert werden sollen. Sie
-beinhaltet ebenso die Methoden start(), saveFile() und loadFile() und die Steuerung durch die Pfeiltasten. Die zeichenfeld-Datei 
-beinhaltet alle Objekte, welche in dem Zeichenfeld zu sehen sind. 
+Die Dateien main.cpp, meinwidget.cpp und zeichenfeld.cpp sowie die Header setzen die Arbeit zusammen. Die main-Datei beinhaltet das 
+Anzeigen des Programms. Die meinwidget-Datei beinhaltet die Oberfläche des Programms und wo genau die Buttons und die Zeichenfläche 
+platziert werden sollen. Sie beinhaltet ebenso die Methoden start(), saveFile() und loadFile() und die Steuerung durch die Pfeiltasten. 
+Die zeichenfeld-Datei beinhaltet alle Objekte, welche in dem Zeichenfeld zu sehen sind, wie der Avatar, der Punktestand und die
+Hindernisse.
 
 Für diese Semesterarbeit wurde Stufe 1 und ein Teil von Stufe 2 erledigt!
