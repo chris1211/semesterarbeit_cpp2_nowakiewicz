@@ -14,4 +14,5 @@ platziert werden sollen. Sie beinhaltet ebenso die Methoden start(), saveFile() 
 Die zeichenfeld-Datei beinhaltet alle Objekte, welche in dem Zeichenfeld zu sehen sind, wie der Avatar, der Punktestand und die
 Hindernisse.
 
-Für diese Semesterarbeit wurde Stufe 1 und ein Teil von Stufe 2 erledigt!
+Für diese Semesterarbeit wurde Stufe 1 und ein Teil von Stufe 2 der Anforderung erledigt!
+Für die Arbeit wurde Qt Desktop 5.9.2 MinGW 32bit genutzt. 
