@@ -12,7 +12,7 @@ Die Dateien main.cpp, meinwidget.cpp und zeichenfeld.cpp sowie die Header setzen
 Anzeigen des Programms. Die meinwidget-Datei beinhaltet die Oberfläche des Programms und wo genau die Buttons und die Zeichenfläche 
 platziert werden sollen. Sie beinhaltet ebenso die Methoden start(), saveFile() und loadFile() und die Steuerung durch die Pfeiltasten. 
 Die zeichenfeld-Datei beinhaltet alle Objekte, welche in dem Zeichenfeld zu sehen sind, wie der Avatar, der Punktestand und die
-Hindernisse.
+Gegenstände, welche ins Zeichenfeld von oben auftreten.
 
 Für diese Semesterarbeit wurde Stufe 1 und ein Teil von Stufe 2 der Anforderung erledigt!
 Für die Arbeit wurde Qt Desktop 5.9.2 MinGW 32bit genutzt. 
